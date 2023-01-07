@@ -45,7 +45,7 @@
     height: 64px;
     left: 1210px;
     top: 578px;
-    background-color: #F15B22;
+    background-color: #22f1569b;
     border-radius: 5px;
     border: none;
     margin-top: 32px;
@@ -138,32 +138,7 @@
 
 }
 /* section 2 ends here */
-
 /* section 3 starts here */
-.goals h2 {
-    text-align: center;
-    font-size: 40px;
-    margin: 30px 0;
-}
-.goals-bg {
-    height: 300px;
-    width: 1140px;
-    background-image: url('images/developer.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    color: #383230;
-    margin: 20px 200px 20px 200px;
-    border-radius: 10px;
-}
-.goals-bg h3 {
-    font-size: 40px;
-    padding: 20px 100px 0px 20px;
-    
-}
-/* section 3 ends here */
-
-/* section 4 starts here */
 .section-watch {
     margin-top: 30px ;
     margin-bottom: 30px;
@@ -175,7 +150,7 @@
     background-blend-mode: multiply;
     background-position: center;
     background-repeat: no-repeat;
-    color: #ffff;
+    color: rgb(255, 255, 255);
     font-size: 40px;
     margin: 20px 200px 20px 200px;
 }
@@ -187,19 +162,19 @@
 }
 .watch-blend  button {
     font-size: 25px;
-    background-color: #F15B22;
+    background-color: #2271f157;
     color: #ffff;
-    border: 2px solid #F15B22;
+    border: 2px solid #22f1a5;
     border-radius: 5px;
     margin-left: 124px;
     height: 30px;
     width: 100px;
 }
-/* section 4 ends here */
+/* section 3 ends here */
 
 /* footer starts here */
 footer {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     height: 60vh;
     width: 1;
     color: #ffff;
@@ -232,7 +207,7 @@ footer {
     margin-top: 10px;
     padding: 5px 8px 5px 5px;
     font-size: 18px;
-    color: #F15B22;
+    color: #f122ac;
 }
 .footer-icon img {
     padding: 5px;
